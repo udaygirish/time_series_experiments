@@ -62,7 +62,17 @@
 - Precision at k (True anomalies among top k pred)
 - Recall at k  (True anomalies found in top k)
 
+## Models 
 
+- Support Vector Machine (SVM)
+- K- Nearest Neighbour (KNN)
+- Decision Tree
+- Quadratic Discriminant Analysis (QDA)
+- CNN
+- FCN
+- LSTM
+- GRU
+- BiLSTM
 
 
 
